@@ -20,8 +20,8 @@
 **Регрессионное тестирование:**
 - Отчет о тестировании: [Ссылка на таблицу с тест-кейсами](https://docs.google.com/spreadsheets/d/1_OcuRNXzstq7ExKyyf3qv_kx3yyqkHLg5KI26DGtYXg/edit?usp=sharing)
 - Баг-репорты: [Ссылка на таблицу с баг-репортами](https://docs.google.com/spreadsheets/d/1LF04HFwnH-_Ps77_V_3b-W0tfJC8j2pvooysPXErCuw/edit?usp=sharing)
-  
-![Скриншот регрессионного тестирования](ссылка_на_скриншот_в_гитхабе)
+
+![Скриншот регрессионного тестирования](https://github.com/user-attachments/assets/ed99744d-2984-4751-83d5-b7737fbb1bb6)
 
 **Ретест багов:**
 
