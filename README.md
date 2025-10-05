@@ -1,4 +1,4 @@
-<img width="1229" height="644" alt="image" src="https://github.com/user-attachments/assets/0bad606e-9223-42a9-91d3-b001c007edfd" />## Регрессионное тестирование и ретест багов интерактивной веб-страницы Mesto
+## Регрессионное тестирование и ретест багов интерактивной веб-страницы Mesto
 
 ### Контекст и ссылки
 - **Требования:** [Ссылка на документ с требованиями](https://praktikum.notion.site/Mesto-9f2cfaa209734d1f8cfa0c0db3d3049f)
