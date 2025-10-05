@@ -30,4 +30,4 @@
 
 - Отчет о ретесте: [Ссылка на таблицу с результатами ретеста](https://docs.google.com/spreadsheets/d/1KfYjU0qdXB0yfwI9GqE_Iw0xNz45Ele9uw81dPnEzYE/edit?usp=sharing)
   
-![Скриншот регрессионного тестирования](ссылка_на_скриншот_в_гитхабе)
+![Скриншот ретест багов](https://github.com/user-attachments/assets/acde6a48-58dc-4d25-9f9e-e9cfd132e12e)
